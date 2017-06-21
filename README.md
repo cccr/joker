@@ -9,7 +9,7 @@
 
 ## Apache Jackrabbit
 - [x] назначение
-- [ ] JSP-170 & API
+- [ ] JSR-170 & API
 - [ ] модели работы и взаимодействия с приложениями (bundled, контейнер, standalone)
 - [ ] что под капотом
     - storage
